@@ -1,0 +1,14 @@
+C:\Users\Brenda_Anievski\ITAcademy21\ProjetoACMESports\ACMESports\bin\Debug\net8.0\ACMESports.exe
+C:\Users\Brenda_Anievski\ITAcademy21\ProjetoACMESports\ACMESports\bin\Debug\net8.0\ACMESports.deps.json
+C:\Users\Brenda_Anievski\ITAcademy21\ProjetoACMESports\ACMESports\bin\Debug\net8.0\ACMESports.runtimeconfig.json
+C:\Users\Brenda_Anievski\ITAcademy21\ProjetoACMESports\ACMESports\bin\Debug\net8.0\ACMESports.dll
+C:\Users\Brenda_Anievski\ITAcademy21\ProjetoACMESports\ACMESports\bin\Debug\net8.0\ACMESports.pdb
+C:\Users\Brenda_Anievski\ITAcademy21\ProjetoACMESports\ACMESports\obj\Debug\net8.0\ACMESports.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brenda_Anievski\ITAcademy21\ProjetoACMESports\ACMESports\obj\Debug\net8.0\ACMESports.AssemblyInfoInputs.cache
+C:\Users\Brenda_Anievski\ITAcademy21\ProjetoACMESports\ACMESports\obj\Debug\net8.0\ACMESports.AssemblyInfo.cs
+C:\Users\Brenda_Anievski\ITAcademy21\ProjetoACMESports\ACMESports\obj\Debug\net8.0\ACMESports.csproj.CoreCompileInputs.cache
+C:\Users\Brenda_Anievski\ITAcademy21\ProjetoACMESports\ACMESports\obj\Debug\net8.0\ACMESports.dll
+C:\Users\Brenda_Anievski\ITAcademy21\ProjetoACMESports\ACMESports\obj\Debug\net8.0\refint\ACMESports.dll
+C:\Users\Brenda_Anievski\ITAcademy21\ProjetoACMESports\ACMESports\obj\Debug\net8.0\ACMESports.pdb
+C:\Users\Brenda_Anievski\ITAcademy21\ProjetoACMESports\ACMESports\obj\Debug\net8.0\ACMESports.genruntimeconfig.cache
+C:\Users\Brenda_Anievski\ITAcademy21\ProjetoACMESports\ACMESports\obj\Debug\net8.0\ref\ACMESports.dll
